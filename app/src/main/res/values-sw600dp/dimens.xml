@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_from_appbar">56dp</dimen>
+    <dimen name="text_size">40sp</dimen>
+    <dimen name="text_button_size">50sp</dimen>
+</resources>

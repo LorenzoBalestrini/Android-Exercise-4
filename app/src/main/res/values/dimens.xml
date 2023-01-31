@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="margin_from_appbar">56dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="text_button_size">30sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

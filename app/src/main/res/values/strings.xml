@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="first_fragment_line1">Hello, first line of the fragment!</string>
+    <string name="first_fragment_line2">Second line of the fragment, goodbye!</string>
+    <string name="button_fragment1">Press here</string>
+    <string name="toast_string">This button is between two Textviews!</string>
+    <string name="fragment_2_line">This is the second fragment!</string>
+    <string name="button_go_to_fragment_2" translatable="false">Fragment 2</string>
+    <string name="button_go_to_fragment_1" translatable="false">Fragment 1</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_account" translatable="false">Account</string>
+    <string name="menu_exit">Exit</string>
+    <string name="bottom_home" translatable="false">Home</string>
+    <string name="bottom_second" translatable="false">Second</string>
+    <string name="title_activity_list" translatable="false">ListActivity</string>
+    <string name="button_list_activity" translatable="false">List Activity</string>
+    <string name="permission_for_activity_list">Enter y</string>
+    <string name="toast_edit_text">You choose not to see the list!</string>
+
+</resources>

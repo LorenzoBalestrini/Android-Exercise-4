@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Fragment2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_200"
+        android:textSize="@dimen/text_size"
+        android:text="@string/fragment_2_line"
+        android:layout_marginBottom="64dp"
+
+        />
+
+    <Button
+        android:id="@+id/buttonGoToFragment1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_go_to_fragment_1"
+        android:textSize="@dimen/text_button_size"
+        android:textAllCaps="false"
+        android:layout_marginTop="64dp"
+/>
+
+    <EditText
+        android:id="@+id/edit_text_go_to_list_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="64sp"
+        android:inputType="textShortMessage"
+        android:textSize="@dimen/text_size"
+        android:hint="@string/permission_for_activity_list"
+        />
+
+    <Button
+        android:id="@+id/buttonGoToListActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_list_activity"
+        android:textSize="@dimen/text_button_size"
+        android:textAllCaps="false"
+        android:layout_marginTop="32dp"
+        android:enabled="false"
+        />
+
+
+</LinearLayout>
