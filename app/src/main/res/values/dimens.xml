@@ -2,5 +2,6 @@
     <dimen name="margin_from_appbar">56dp</dimen>
     <dimen name="text_size">25sp</dimen>
     <dimen name="text_button_size">30sp</dimen>
-    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_linear_layout">64dp</dimen>
+    <dimen name="margin_half_linear_layout">32dp</dimen>
 </resources>

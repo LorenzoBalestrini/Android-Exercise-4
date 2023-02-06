@@ -27,7 +27,8 @@ class ListActivity : AppCompatActivity() {
         GamesList("Pokémon"),
         GamesList("Outer Wilds"),
         GamesList("BioShock"),
-        GamesList("Monster Hunter"))
+        GamesList("Monster Hunter"),
+        GamesList("Metal Gear Solid"))
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

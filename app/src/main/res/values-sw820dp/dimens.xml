@@ -3,4 +3,6 @@
     <dimen name="margin_from_appbar">56dp</dimen>
     <dimen name="text_size">55sp</dimen>
     <dimen name="text_button_size">60sp</dimen>
+    <dimen name="margin_linear_layout">96dp</dimen>
+    <dimen name="margin_half_linear_layout">64dp</dimen>
 </resources>

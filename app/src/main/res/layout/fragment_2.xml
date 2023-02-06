@@ -14,7 +14,7 @@
         android:background="@color/purple_200"
         android:textSize="@dimen/text_size"
         android:text="@string/fragment_2_line"
-        android:layout_marginBottom="64dp"
+        android:layout_marginBottom="@dimen/margin_linear_layout"
 
         />
 
@@ -25,7 +25,7 @@
         android:text="@string/button_go_to_fragment_1"
         android:textSize="@dimen/text_button_size"
         android:textAllCaps="false"
-        android:layout_marginTop="64dp"
+        android:layout_marginTop="@dimen/margin_linear_layout"
 />
 
     <EditText
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="64sp"
+        android:layout_marginTop="@dimen/margin_linear_layout"
         android:inputType="textShortMessage"
         android:textSize="@dimen/text_size"
         android:hint="@string/permission_for_activity_list"
